@@ -1,0 +1,16 @@
+.row{
+
+    display: flex;
+    margin-top: 0.4rem;
+
+    .item{
+        width: 100%;
+        padding: 2rem;
+        background-color: brown;
+        margin-right: 2rem;
+        text-align:center;
+        color: white;
+        font-size: 6rem;
+    }
+
+}
